@@ -1,13 +1,35 @@
-### Hi, I'm Muhammad Adha Fajri Jonison 👋
+<h1 align="center">Hi 👋, I'm Muhammad Adha Fajri Jonison</h1>
+<h3 align="center">Aspiring to be an iOS Developer</h3>
 
-- 🔭 I’m currently working on my iOS Portfolio
-- 🌱 I’m currently learning iOS Development
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/adhafajri/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhafajri&label=Profile%20views&color=0e75b6&style=flat" alt="adhafajri" /> </p>
 
-With my roots as a full-stack developer, I've honed my skills across mobile, web, and backend platforms. Now, as an all-rounder, I don't just develop - I design, animate, and even dive into video editing, making me a one-stop solution for holistic digital projects. Armed with hard work and grit, my commitment to constant upskilling led me to Dicoding Academy online courses and Tokopedia Academy DevCamp in 2022, and I'm now immersing myself further at the Apple Developer Academy. I'm actively seeking a full-time position as an iOS Developer where I can bring my diverse set of skills to the table.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhafajri" alt="adhafajri" /></a> </p>
 
-[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dark&quote="We%20are%20what%20we%20repeatedly%20do.%20Excellence,%20then,%20is%20not%20an%20act%20but%20a%20habit."&author="Aristotle")](https://github.com/Vishal-beep136/github-readme-quotify)
+- 🔭 I’m currently enhancing my skills on **iOS Development**
 
-[![Muhammad Adha Fajri Jonison's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhafajri)](https://github.com/adhafajri/github-readme-stats)
+- 👨‍💻 All of my projects are available at [adhafajri.vercel.app](adhafajri.vercel.app)
 
-![](https://komarev.com/ghpvc/?username=adhafajri)
+- 📝 I regularly write articles on [https://medium.com/@adha_fajri](https://medium.com/@adha_fajri)
+
+- 📫 How to reach me **madhafajrij@gmail.com**
+
+- 💡 Current quote I live by **“We are what we repeatedly do. Excellence, then, is not an act but a habit." -Aristotle**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/adhafajri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhafajri" height="30" width="40" /></a>
+<a href="https://medium.com/@adha_fajri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adha_fajri" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhafajri&show_icons=true&locale=en&layout=compact" alt="adhafajri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhafajri&show_icons=true&locale=en" alt="adhafajri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhafajri&" alt="adhafajri" /></p>
