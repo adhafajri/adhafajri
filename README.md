@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently enhancing my skills on **iOS Development**
 
-- 👨‍💻 All of my projects are available at [adhafajri.vercel.app](adhafajri.vercel.app)
+- 👨‍💻 All of my projects are available at [adhafajri.vercel.app](https://adhafajri.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@adha_fajri](https://medium.com/@adha_fajri)
 
