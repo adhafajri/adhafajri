@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@adha_fajri](https://medium.com/@adha_fajri)
 
+- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/muhammad-adha-fajri-portfolio.appspot.com/o/resume%2FResume%2019-Jul-2023.pdf?alt=media&token=4cb69426-1963-4c70-a4ea-1f17e0d055a6](https://firebasestorage.googleapis.com/v0/b/muhammad-adha-fajri-portfolio.appspot.com/o/resume%2FResume%2019-Jul-2023.pdf?alt=media&token=4cb69426-1963-4c70-a4ea-1f17e0d055a6)
+
 - 📫 How to reach me **madhafajrij@gmail.com**
 
 - 💡 Current quote I live by **“We are what we repeatedly do. Excellence, then, is not an act but a habit." -Aristotle**
