@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Domain Name](https://medium.com/@adha_fajri/domain-name-bfd00bdd8c33?source=rss-9a4149b4b803------2)
+- [DNS](https://medium.com/@adha_fajri/dns-fb2b8e9964d6?source=rss-9a4149b4b803------2)
+- [Web Browser](https://medium.com/@adha_fajri/web-browser-43bddfc987ac?source=rss-9a4149b4b803------2)
+- [HTTP](https://medium.com/@adha_fajri/http-26b7014f2a32?source=rss-9a4149b4b803------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
