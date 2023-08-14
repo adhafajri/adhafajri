@@ -15,7 +15,7 @@
 
 - 💡 Current quote I live by **“We are what we repeatedly do. Excellence, then, is not an act but a habit." -Aristotle**
 
-### Check out my blog posts
+### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Domain Name](https://medium.com/@adha_fajri/domain-name-bfd00bdd8c33?source=rss-9a4149b4b803------2)
 - [DNS](https://medium.com/@adha_fajri/dns-fb2b8e9964d6?source=rss-9a4149b4b803------2)
