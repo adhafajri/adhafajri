@@ -22,7 +22,6 @@
 - [Web Browser](https://medium.com/@adha_fajri/web-browser-43bddfc987ac?source=rss-9a4149b4b803------2)
 - [HTTP](https://medium.com/@adha_fajri/http-26b7014f2a32?source=rss-9a4149b4b803------2)
 <!-- BLOG-POST-LIST:END -->
-[![Gmail Badge](https://img.shields.io/badge/-madhafajrij@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:madhafajrij@gmail.com)](mailto:madhafajrij@gmail.com) 
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhafajri/)
