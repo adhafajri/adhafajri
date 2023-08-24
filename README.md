@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Current quote I live by
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="We%20are%20what%20we%20repeatedly%20do.%20Excellence,%20then,%20is%20not%20an%20act%20but%20a%20habit"&author="Aristotle"&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=We%20are%20what%20we%20repeatedly%20do.%20Excellence,%20then,%20is%20not%20an%20act%20but%20a%20habit&author="Aristotle"&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### My stats
 
