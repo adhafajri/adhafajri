@@ -4,8 +4,11 @@
 
 ### Reach out to me
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=black&color=eee)](https://adhafajri.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhafajri/)
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adha_fajri)
+
 [![Gmail Badge](https://img.shields.io/badge/-madhafajrij@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:madhafajrij@gmail.com)](mailto:madhafajrij@gmail.com) 
 
 ### 📚 Blog posts
