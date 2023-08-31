@@ -13,10 +13,10 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI MVVM 101](https://medium.com/@adha_fajri/swiftui-mvvm-101-8198dc3855ab?source=rss-9a4149b4b803------2)
 - [SwiftUI Clean Architecture 101](https://medium.com/@adha_fajri/clean-architecture-in-swiftui-b184e0e687f8?source=rss-9a4149b4b803------2)
 - [Domain Name](https://medium.com/@adha_fajri/domain-name-bfd00bdd8c33?source=rss-9a4149b4b803------2)
 - [DNS](https://medium.com/@adha_fajri/dns-fb2b8e9964d6?source=rss-9a4149b4b803------2)
-- [Web Browser](https://medium.com/@adha_fajri/web-browser-43bddfc987ac?source=rss-9a4149b4b803------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Current quote I live by
