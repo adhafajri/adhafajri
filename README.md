@@ -13,7 +13,7 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Two Sum Problem in Swift](https://medium.com/@adha_fajri/leetcode-two-sum-problem-in-swift-4b1f5062d7a0?source=rss-9a4149b4b803------2)
+- [LeetCode Two Sum Problem in Swift](https://medium.com/@adha_fajri/leetcode-two-sum-problem-in-swift-4b1f5062d7a0?source=rss-9a4149b4b803------2)
 - [SwiftUI MVVM 101](https://medium.com/@adha_fajri/swiftui-mvvm-101-8198dc3855ab?source=rss-9a4149b4b803------2)
 - [SwiftUI Clean Architecture 101](https://medium.com/@adha_fajri/clean-architecture-in-swiftui-b184e0e687f8?source=rss-9a4149b4b803------2)
 - [Domain Name](https://medium.com/@adha_fajri/domain-name-bfd00bdd8c33?source=rss-9a4149b4b803------2)
